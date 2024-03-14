@@ -1,6 +1,6 @@
 {
   "name": "@bullbitcoin/react-sdk",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "private": false,
   "description": "Bull Bitcoin API React SDK",
   "main": "dist/src/index.js",
@@ -19,10 +19,10 @@
     "url": "https://github.com/SatoshiPortal/React-SDK.git"
   },
   "devDependencies": {
-    "@bullbitcoin/sdk": "^0.1.4",
+    "@bullbitcoin/sdk": "0.1.6",
     "typescript": "^5.4.2"
   },
   "peerDependencies": {
-    "@bullbitcoin/sdk": "^0.1.2"
+    "@bullbitcoin/sdk": "^0.1.6"
   }
 }
