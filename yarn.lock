@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@bullbitcoin/sdk@^0.1.4":
-  version "0.1.4"
-  resolved "https://registry.yarnpkg.com/@bullbitcoin/sdk/-/sdk-0.1.4.tgz#8aac689c4953baec36754f9fafbd766372132a5e"
-  integrity sha512-KzrEZ3BKpjO9Lvbyjwj1UzOVj1jeYT3agLjktb2cXYWck/JZ+P+SgnUNDYrzmJYYg0zMdOL4cCU6oeVdzn2ebw==
+"@bullbitcoin/sdk@0.1.6":
+  version "0.1.6"
+  resolved "https://registry.yarnpkg.com/@bullbitcoin/sdk/-/sdk-0.1.6.tgz#90c601b5a360f9aa483043d073010e7f6303c1ce"
+  integrity sha512-L/w/huawN0F3m2DxplawWU2tbvFz1Znu8711LiaqBtblReMdxto/orXtwM7G+w6z75NIlBvLqqbC0kKJOL1GcA==
 
 typescript@^5.4.2:
   version "5.4.2"
