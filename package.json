@@ -1,0 +1,28 @@
+{
+  "name": "@bullbitcoin/react-sdk",
+  "version": "0.1.2",
+  "private": false,
+  "description": "Bull Bitcoin API React SDK",
+  "main": "dist/src/index.js",
+  "types": "dist/src/index.d.ts",
+  "author": "ArthyFiciel <arthyficiel@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "clean": "rm -rf dist/*",
+    "build": "yarn clean && tsc"
+  },
+  "files": [
+    "/dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SatoshiPortal/React-SDK.git"
+  },
+  "devDependencies": {
+    "@bullbitcoin/sdk": "^0.1.4",
+    "typescript": "^5.4.2"
+  },
+  "peerDependencies": {
+    "@bullbitcoin/sdk": "^0.1.2"
+  }
+}
